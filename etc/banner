@@ -22,5 +22,5 @@ WHITE='\033[1;37m'
 clear
 echo -e "${RED} CyberGhostGodArch${NOCOLOR}"
 echo -e "CyberGhostGodArch"
-echo -e "          ${CYAN}by Ramonymous${NOCOLOR}"
+echo -e "          ${CYAN}by PrayasRawat${NOCOLOR}"
 echo -e "-----------------------"
