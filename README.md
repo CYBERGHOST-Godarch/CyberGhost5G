@@ -10,6 +10,11 @@ termux-setup-storage
 pkg update
 pkg upgrade
 pkg install git
+pkg install x11-repo -y
+
+pkg install qemu-system-i386 -y
+
+pkg install qemu-user-i386 -y
 
 ```
 4. Clone this repository
