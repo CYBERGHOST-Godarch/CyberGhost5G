@@ -14,7 +14,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/CYBERGHOST-Godarch/CyberGhost5G.git
+git clone https://github.com/CYBERGHOST-Godarch/CyberGhostGodArch.git)
 ```
 5. Open ThePAK directory and run setup.
 ```
